@@ -50,14 +50,14 @@ const workerConfig = {
     },
     // Example TCP Monitor
     {
-      id: '809098.xyz',
-      name: 'Blog',
+      id: 'moontv',
+      name: 'moontv',
       // `method` should be `TCP_PING` for tcp monitors
       method: 'GET',
       // `target` should be `host:port` for tcp monitors
-      target: 'https://809098.xyz',
+      target: 'https://xvvdvf-cafehg.hf.space',
       tooltip: 'My production server monitor',
-      statusPageLink: 'https://809098.xyz',
+      statusPageLink: 'https://xvvdvf-cafehg.hf.space',
       timeout: 10000,
     },
   ],
